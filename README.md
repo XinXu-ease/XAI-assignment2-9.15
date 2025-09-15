@@ -7,3 +7,20 @@ Tasks
 3. Logistic Regression: Treat churn as a binary variable and build a logistic regression model to predict the probability of churn. Interpret the coefficients.
 4. Generalized Additive Model (GAM): Build a GAM to model the non-linear relationships between customer features and churn. Interpret the GAM model. 
 5. Model Comparison: Compare the performance and interpretability of the different models you built. Discuss the strengths and weaknesses of each approach and provide recommendations for which model(s) the telecommunications company should use to address their customer churn problem.
+
+
+**Contents**
+
+churn_analysis.ipynb – Google Colab notebook with full code and documentation
+
+Models Implemented
+
+Exploratory Data Analysis (EDA)
+
+Linear Regression, Ridge, and Lasso
+
+Logistic Regression
+
+Generalized Additive Model (GAM)
+
+Model comparison and recommendations
