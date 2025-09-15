@@ -13,7 +13,7 @@ Tasks
 
 churn_analysis.ipynb – Google Colab notebook with full code and documentation
 
-Models Implemented
+**Models Implemented**
 
 Exploratory Data Analysis (EDA)
 
